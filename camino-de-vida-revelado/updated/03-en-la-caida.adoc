@@ -1,4 +1,4 @@
-[#en-caida, short="El Estado del Hombre En la Caída"]
+[short="El Estado del Hombre En la Caída"]
 == El Estado Miserable del Hombre En la Caída
 
 Pero aquel que no guardó su primera morada, ni permaneció en la Verdad,

@@ -1,4 +1,4 @@
-[#antes-caida, short="El Estado del Hombre Antes de la Caída"]
+[short="El Estado del Hombre Antes de la Caída"]
 == El Estado de Felicidad del Hombre Antes de la Caída
 
 En el principio creó Dios los cielos y la tierra;
